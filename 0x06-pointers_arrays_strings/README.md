@@ -1,1 +1,1 @@
-More Pointers and Functions
+Added more functions and pointers
