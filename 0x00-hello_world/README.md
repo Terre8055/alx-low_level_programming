@@ -1,1 +1,1 @@
-Learning C programming on Preprocessor and Betty Linter
+#Compiling C files with gcc
