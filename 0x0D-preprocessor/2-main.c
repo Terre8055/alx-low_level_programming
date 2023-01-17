@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-
 /**
 * main - checks the code
 * _FILE_ - checks for uppercase character
-* Return: 1 if c is uppercase, 0 otherwise
+* Return: 0 if c is uppercase, 0 otherwise
 *
 */
 
